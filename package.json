@@ -1,0 +1,29 @@
+{
+  "name": "analytics-node",
+  "version": "1.0.0",
+  "description": "Nodejs library for opt analytics",
+  "main": "analytics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilmore690/analytics-node.git"
+  },
+  "keywords": [
+    "analytics",
+    "tracking"
+  ],
+  "author": "Sunil More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilmore690/analytics-node/issues"
+  },
+  "homepage": "https://github.com/sunilmore690/analytics-node#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "async": "^2.2.0",
+    "clone": "^2.1.1",
+    "superagent": "^3.5.2"
+  }
+}
