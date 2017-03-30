@@ -4,7 +4,7 @@
   "description": "Nodejs library for opt analytics",
   "main": "analytics.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "assert": "^1.4.1",
     "async": "^2.2.0",
     "clone": "^2.1.1",
+    "debug": "^2.6.3",
     "superagent": "^3.5.2"
   }
 }
